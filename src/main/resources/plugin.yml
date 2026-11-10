@@ -1,0 +1,6 @@
+name: OnlineOsoby
+version: 1.0
+main: pl.twojnick.onlineosoby.OnlineOsoby
+api-version: "1.21"
+depend: [PlaceholderAPI]
+softdepend: [FancyHolograms]

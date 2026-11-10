@@ -1,0 +1,13 @@
+# Grupy swiatow = tryby. Placeholder %online_osoby% pokaze liczbe graczy
+# we wszystkich swiatach z grupy, w ktorej jest aktualnie gracz.
+# Swiat spoza grup: liczy tylko graczy z tego samego swiata.
+tryby:
+  survival:
+    - world
+    - world_nether
+    - world_the_end
+  skyblock:
+    - skyblock_world
+  bedwars:
+    - bedwars_lobby
+    - bedwars_arena
